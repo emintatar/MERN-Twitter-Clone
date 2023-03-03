@@ -1,0 +1,36 @@
+.mainTitle {
+  text-align: center;
+}
+
+.tweetForm {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.submitBtn {
+  width: 100%;
+}
+
+.tweetList {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.tweet {
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.tweetName {
+  font-weight: bold;
+  font-size: 1.2em;
+}
+
+.tweetContent {
+  margin-top: 10px;
+}
